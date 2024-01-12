@@ -18,3 +18,9 @@ Se dobbiamo confrontare qualcosa che "cosa" ci serve?
 - chiedere con un promt l'email all'utente
 - controllare che l'email inserita faccia parte della lista
 - se email giusta stampare un messaggio di accesso se email è sbagliata rimandare il promt di inserimento email
+
+## svolgimento gioco dadi
+
+- creare due variabili per la creazione casuale di un numero da 1 a 6 sia per il giocatore sia per il computer
+
+- confrontare i risultati per vedere chi ha generato il numero più alto
