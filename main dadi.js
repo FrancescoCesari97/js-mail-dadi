@@ -14,10 +14,10 @@ let backgroundColor = "";
 
 addEventListener("click", function () {
   if (numberUser > numberComputer) {
-    result.innerHTML = ` <h1 > HAI VINTO </h1>`;
+    result.innerHTML = ` <h1 class="vinto" > HAI VINTO </h1>`;
   } else if (numberUser < numberComputer) {
-    result.innerHTML = ` <h1 > HAI PERSO </h1>`;
+    result.innerHTML = ` <h1 class="perso"> HAI PERSO </h1>`;
   } else if (numberUser == numberComputer) {
-    result.innerHTML = ` <h1> PAREGGIO </h1>`;
+    result.innerHTML = ` <h1 class="pareggio"> PAREGGIO </h1>`;
   }
 });

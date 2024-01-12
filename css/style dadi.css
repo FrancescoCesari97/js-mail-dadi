@@ -47,4 +47,15 @@ a{
     padding: 2rem;
 }
 
-#printResult 
+.vinto {
+    color: rgb(0, 255, 68);
+}
+
+.perso{
+    color: rgb(255, 0, 0);
+}
+
+
+.pareggio{
+    color: rgb(225, 255, 0);
+}
